@@ -13,7 +13,7 @@ function Home() {
           <p className="intro-heading">INTRODUCING</p>
           <p className="intro-subheading">Rapid Multiplexing Sensing</p>
           <p className="intro-description">REVOLUTIONISING BIOSENSING CAPABILITIES</p>
-          <a href="#" className="learn-more">Learn more about Senoptix &gt;</a>
+          {/* <a href="#" className="learn-more">Learn more about Senoptix &gt;</a> */}
         </div>
       </header>
       <section className="programs-text">
@@ -41,7 +41,7 @@ function Home() {
           
           To learn more about our design, click Learn More, or watch the summary video below.
         </p>
-        <a href="#" className="learn-more">Learn more &gt;</a>
+        {/* <a href="#" className="learn-more">Learn more &gt;</a> */}
         <div className="video-container">
           <iframe 
             width="560" 
@@ -57,14 +57,14 @@ function Home() {
       <section className="info-section">
         <h1>Our Team</h1>
         <p>Our dedicated team of experts drives the innovation and success at Senoptix. Comprised of industry-leading scientists, our team is committed to advancing biosensing technology through rigorous research and development.</p>
-        <a href="#" className="learn-more">Meet the Team &gt;</a>
+        {/* <a href="#" className="learn-more">Meet the Team &gt;</a> */}
       </section>
       <section className="info-section">
         <h1>Contact Us</h1>
         <p>
           For any questions and inquiries, email us at info@senoptix.com
         </p>
-        <a href="#" className="learn-more">For more details &gt;</a>
+        {/* <a href="#" className="learn-more">For more details &gt;</a> */}
       </section>
     </div>
   );
