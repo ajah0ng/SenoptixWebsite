@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SenoptixWebsite/static/css/main.06da3fed.css",
+    "main.js": "/SenoptixWebsite/static/js/main.07f4162a.js",
+    "index.html": "/SenoptixWebsite/index.html",
+    "main.06da3fed.css.map": "/SenoptixWebsite/static/css/main.06da3fed.css.map",
+    "main.07f4162a.js.map": "/SenoptixWebsite/static/js/main.07f4162a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06da3fed.css",
+    "static/js/main.07f4162a.js"
+  ]
+}
