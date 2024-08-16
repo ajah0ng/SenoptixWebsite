@@ -17,6 +17,10 @@ function SenoptixTechnology() {
           <h1>At Senoptix, our Light-Activated Electrochemical-Sensor</h1>
           <p>redefines sensing across all applications. Our highly adaptable sensor integrates cutting-edge light-activated technology to deliver unparalleled sensitivity, selectivity, and versatility, transforming how we detect and measure chemical and biological phenomena.</p>
         </div>
+
+        <div className="gif-container">
+          <img src={`${process.env.PUBLIC_URL}/diagram.gif`} className="technology-gif" alt="Technology GIF" />
+        </div>
         
         <div className="section">
           <div className="card">
