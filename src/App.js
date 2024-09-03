@@ -28,7 +28,8 @@ function App() {
             <Route path="/senoptix-technology" element={<SenoptixTechnology />} />
             <Route path="/our-applications" element={<OurApplications />} />
             <Route path="/our-team" element={<OurTeam />} />
-            <Route path="/contact-us" element={<ContactUs />} />
+            <Route path="/contact-us" element={<ContactUs />} 
+            />
           </Routes>
         </div>
         <footer>

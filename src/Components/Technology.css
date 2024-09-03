@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Raleway', sans-serif;
-  color: #333;
+  color: black;
   line-height: 1.8;
   margin: 0;
   padding: 0;
@@ -15,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: black;
   text-align: center;
   overflow: hidden;
   margin-bottom: 40px;
@@ -34,17 +34,21 @@ body {
 .banner-text h2 {
   margin: 0;
   font-size: 2em;
+  color: black;
 }
 
 .banner-text p {
   margin: 20px 0 0;
+  color: black;
   font-size: 1.3em;
 }
 
 .container {
+  color: black;
   max-width: 1200px;
   margin: 40px auto;
   padding: 20px;
+  
 }
 
 .header h1 {
@@ -76,6 +80,10 @@ body {
   justify-content: space-between;
 }
 
+.small-image {
+  width: 1300px; /* Set the width to a smaller size */
+  height: auto;
+}
 .card h2 {
   color: #0e1413;
   font-size: 1.4em;

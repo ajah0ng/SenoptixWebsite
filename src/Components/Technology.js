@@ -7,8 +7,7 @@ function SenoptixTechnology() {
       <div className="banner">
         <img src={`${process.env.PUBLIC_URL}/cover-image.jpeg`} className="home-cover" alt="Cover" />
         <div className="banner-text">
-          <h2>Groundbreaking Technology</h2>
-          <h2>Revolutionizing Sensing.</h2>
+          <h2>Sensor Technnology</h2>
         </div>
       </div>
 
@@ -19,7 +18,11 @@ function SenoptixTechnology() {
         </div>
 
         <div className="gif-container">
-          <img src={`${process.env.PUBLIC_URL}/diagram.gif`} className="technology-gif" alt="Technology GIF" />
+        <img 
+          src={`${process.env.PUBLIC_URL}/diagram.gif`} 
+          alt="Technology GIF" 
+          className="small-image" 
+        />
         </div>
         
         <div className="section">
@@ -63,8 +66,8 @@ function SenoptixTechnology() {
       <div className="banner">
         <img src={`${process.env.PUBLIC_URL}/germs.jpg`} className="home-cover" alt="Cover" />
         <div className="banner-text">
-          <h2>Using Aptamers to diagnose</h2>
-          <h1>COMPLEX diseases and SAVE lives.</h1>
+          <h2>Diagnosing complex diseases</h2>
+          <h1>and SAVING LIVES</h1>
         </div>
       </div>
 

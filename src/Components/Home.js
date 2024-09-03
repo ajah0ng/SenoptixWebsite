@@ -10,15 +10,11 @@ function Home() {
           <img src={`${process.env.PUBLIC_URL}/logo-clear.png`} className="home-logo" alt="Senoptix Logo" />
         </div>
         <div className="home-text">
-          <p className="intro-heading">INTRODUCING</p>
           <p className="intro-subheading">Rapid Multiplexing Sensing</p>
           <p className="intro-description">REVOLUTIONISING BIOSENSING CAPABILITIES</p>
           {/* <a href="#" className="learn-more">Learn more about Senoptix &gt;</a> */}
         </div>
       </header>
-      <section className="programs-text">
-        <h1>Senoptix's Accelerating Innovation: Developed and refined through esteemed Accelerator programs</h1>
-      </section>
       <section className="programs-logos">
         <a href="https://research.csiro.au/onalumni/senoptix/" target="_blank" rel="noopener noreferrer">
           <img src={`${process.env.PUBLIC_URL}/csiro.png`} className="program-logo" alt="CSIRO logo" />
